@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+google-generativeai
+openpyxl
+PyPDF2
+python-dotenv
+matplotlib
+seaborn
+scipy
+scikit-learn
